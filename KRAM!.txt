@@ -1,3 +1,4 @@
 Dies ist eine textdatei,
+mal ne zeile dazwischen
 und sie ist sehr schön!
 In meinem Geist scheint heute die Sonne. 
