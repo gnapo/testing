@@ -1,2 +1,2 @@
-dies ist eine textdatei
-und sie ist sähr schönn!
+Dies ist eine textdatei,
+und sie ist sehr schön!
